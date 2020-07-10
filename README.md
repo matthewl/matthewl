@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm not sure what to use this README for yet, so expect some changes here over the next few days.
+
+I enjoy working mostly with Ruby on Rails, but have been known to dabble in JavaScript, TypeScript, Vue.js, ASP.NET and C#.
+
 <!--
 **matthewl/matthewl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
